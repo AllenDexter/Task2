@@ -1,0 +1,17 @@
+form {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ada8b6;
+    box-shadow: 5px 5px 5px 5px rgba(0.1, 0.1, 0.1, 0.1);
+    border-radius: 6%
+
+}
+
+
+input[type="submit"], button[type="submit"] {
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
